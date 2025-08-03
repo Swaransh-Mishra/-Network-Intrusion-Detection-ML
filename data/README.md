@@ -28,3 +28,18 @@ Due to Kaggle’s licensing and size restrictions, these CSV files are **not inc
 3. Click **Download** to get the ZIP file
 
 4. Extract and place the files:
+
+   into this local `data/` folder
+
+---
+
+## 🧪 Purpose in This Project:
+
+These CSV files are used in:
+- Exploratory Data Analysis (EDA)
+- Data cleaning and preprocessing
+- Model training and evaluation
+
+---
+
+
