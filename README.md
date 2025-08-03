@@ -1,2 +1,2 @@
 # 	Network-Intrusion-Detection-ML
-Machine learning project for detecting and classifying network intrusions using Kaggle dataset.
+"A machine learning-based Network Intrusion Detection System (NIDS) capable of identifying and classifying cyber-attacks using IBM Cloud services"
