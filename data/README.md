@@ -1,16 +1,30 @@
-# 📁 Dataset Info: Network Intrusion Detection
+# 📁 Dataset Information: Network Intrusion Detection
 
-This project uses the [Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/networkintrusion-detection) from Kaggle.
+This machine learning project uses the **[Network Intrusion Detection Dataset](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)** from Kaggle.
 
-📄 **Files Needed**:
+---
+
+## 📦 Files Required:
 - `Train_data.csv`
 - `Test_data.csv`
 
-⚠️ Due to Kaggle’s licensing terms, these files are **not included in this repository**.  
-To run this project locally, please:
+These files contain labeled network traffic data and are used to build and evaluate a Network Intrusion Detection System (NIDS).
 
-1. Visit the Kaggle link above
-2. Download the dataset manually
-3. Place both CSV files into this `data/` folder
+---
 
-🧪 These files are used in the notebooks for EDA and model training.
+## ⚠️ Note:
+
+Due to Kaggle’s licensing and size restrictions, these CSV files are **not included in this GitHub repository**.
+
+---
+
+## 📥 To Use the Dataset:
+
+1. Go to the official dataset page on Kaggle:
+   👉 [https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection](https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection)
+
+2. Log in to your Kaggle account
+
+3. Click **Download** to get the ZIP file
+
+4. Extract and place the files:
