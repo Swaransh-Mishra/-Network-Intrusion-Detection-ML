@@ -30,6 +30,5 @@
 - **root_shell**: Critical indicator of system compromise
 - **num_file_creations**: >1 suggests ransomware activity
 
-## Visualization Reference
-![Feature Correlation Matrix](images/feature_correlation.png)  
+## Visualization Reference 
 *Figure 1: Relationships between key numerical features*
