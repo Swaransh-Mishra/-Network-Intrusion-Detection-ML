@@ -45,5 +45,9 @@
 - **Class Weighting**: Prioritize recall for u2r/r2l
 - **Validation**: Stratified k-fold cross-validation
 
+<<<<<<< HEAD
 ![Attack Type Distribution](images/attack_distribution.png)  
 *Figure 2: Class imbalance visualization*
+=======
+*Figure 2: Class imbalance visualization*
+>>>>>>> 73ae0943036290ed6fec8ee3472f7f9a4539b158
